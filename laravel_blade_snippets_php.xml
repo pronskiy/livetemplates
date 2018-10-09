@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="Laravel Blade">
+    <template name="b:extends" value="@extends('$NAME$')$END$;" description="" toReformat="false" toShortenFQNames="true">
+        <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="PHP" value="true" />
+        </context>
+    </template>
+</templateSet>
